@@ -28,7 +28,10 @@ I am a physics graduate with an MSc in Astrophysics from the Complutense Univers
 
 ## Portfolio
 
-I am organizing this profile to share reproducible, documented projects in **Python, SQL and data analysis**, alongside research-related examples that I am permitted to publish.
+### [E-commerce SQL Analytics Portfolio](https://github.com/ismaelberja/olist-ecommerce-sql-portfolio)
+SQL and Python project exploring Olist's historical e-commerce dataset, with **10 analytical SQL queries**, a reproducible SQLite pipeline, automated tests, quality checks and reporting scripts. The original dataset must be downloaded separately; the project does not claim findings until the full analysis is run.
+
+I am also preparing further projects in Python, scientific data analysis and research, subject to data-sharing permissions.
 
 ## Let's connect
 
