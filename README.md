@@ -29,7 +29,7 @@ I am a physics graduate with an MSc in Astrophysics from the Complutense Univers
 ## Portfolio
 
 ### [E-commerce SQL Analytics Portfolio](https://github.com/ismaelberja/olist-ecommerce-sql-portfolio)
-SQL and Python project exploring Olist's historical e-commerce dataset, with **10 analytical SQL queries**, a reproducible SQLite pipeline, automated tests, quality checks and reporting scripts. The original dataset must be downloaded separately; the project does not claim findings until the full analysis is run.
+SQL and Python analysis of Olist's historical e-commerce data, featuring **10 analytical SQL queries**, a reproducible SQLite pipeline, automated quality checks and visualizations. The complete workflow has run successfully on original data, producing **verified KPIs, business insights and three charts**. [Explore the results](https://github.com/ismaelberja/olist-ecommerce-sql-portfolio#results-from-real-olist-transactions).
 
 I am also preparing further projects in Python, scientific data analysis and research, subject to data-sharing permissions.
 
