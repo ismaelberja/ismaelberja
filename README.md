@@ -28,6 +28,9 @@ I am a physics graduate with an MSc in Astrophysics from the Complutense Univers
 
 ## Portfolio
 
+### [Bank Marketing Intelligence — Machine Learning](https://github.com/ismaelberja/bank-marketing-ml-portfolio)
+End-to-end binary classification of **41,188 real historical UCI records**, with leakage-aware feature engineering, chronological train/validation/test splits, logistic regression vs gradient boosting, **10 automated tests**, diagnostic plots and a documented campaign-ranking scenario. Final held-out test: **ROC AUC 0.749**, **average precision 0.529**; temporal drift and weak validation performance are documented transparently.
+
 ### [E-commerce SQL Analytics Portfolio](https://github.com/ismaelberja/olist-ecommerce-sql-portfolio)
 SQL and Python analysis of Olist's historical e-commerce data, featuring **10 analytical SQL queries**, a reproducible SQLite pipeline, automated quality checks and visualizations. The complete workflow has run successfully on original data, producing **verified KPIs, business insights and three charts**. [Explore the results](https://github.com/ismaelberja/olist-ecommerce-sql-portfolio#results-from-real-olist-transactions).
 
